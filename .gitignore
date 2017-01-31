@@ -1,0 +1,9 @@
+# Intellij
+out/
+.idea/
+build/
+target/
+*.iml
+*.iws
+
+# My Test class
